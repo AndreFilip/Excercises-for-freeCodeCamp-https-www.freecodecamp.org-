@@ -1,6 +1,3 @@
-# FreeCodeCamp
-
-Excercises for https://www.freecodecamp.org :
-
+My portofolio website:
 
 https://codepen.io/andrefilip/full/zdoaZw/
